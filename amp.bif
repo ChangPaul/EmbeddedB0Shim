@@ -1,0 +1,7 @@
+the_ROM_image:
+{
+	[bootloader]D:\MediaFire\PhD\Microcontrollers\SDK2015.2\C\fsbl\Debug\fsbl.elf
+	D:\MediaFire\PhD\Microcontrollers\SDK2015.2\C\B0Ctrl_hw\B0Ctrl_design_wrapper.bit
+	D:\MediaFire\PhD\Microcontrollers\Backup\Release2.0_150708\u-boot.elf
+	D:\MediaFire\PhD\Microcontrollers\SDK2015.2\C\cpu1_app\Debug\cpu1_app.elf
+}
